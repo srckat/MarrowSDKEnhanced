@@ -57,7 +57,7 @@
   "scopedRegistries": [
     {
       "name": "ArpaRec",
-      "url": "https://upm--live-service.arparec.xyz",
+      "url": "https://upm.kat.arparec.xyz",
       "scopes": [
         "com.arparec.asecomshaders",
         "com.arparec.msdkeh",
