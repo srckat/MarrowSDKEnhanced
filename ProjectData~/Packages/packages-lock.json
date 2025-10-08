@@ -30,6 +30,12 @@
       "dependencies": {},
       "hash": "3b5e9bbe90ffd92c44af9b63009809f28593fb33"
     },
+    "com.holadivinus.marrowbuildhook": {
+      "version": "https://github.com/holadivinus/MarrowBuildHook.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {}
+    },
     "com.lakatrazz.marrowextrashaders": {
       "version": "1.0.0",
       "depth": 0,

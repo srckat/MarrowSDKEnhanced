@@ -7,6 +7,7 @@
     "com.arparec.msdkeh.content.shaders": "1.2.0",
     "com.holadivinus.blpreviewtool": "https://github.com/holadivinus/BL-PreviewTool.git",
     "com.holadivinus.blxrcomp": "https://github.com/holadivinus/BLXRComp.git",
+    "com.holadivinus.marrowbuildhook": "https://github.com/holadivinus/MarrowBuildHook.git",
     "com.holadivinus.noodledevents": "https://github.com/holadivinus/Noodled-Events.git",
     "com.lakatrazz.marrowextrashaders": "https://github.com/Lakatrazz/Marrow-Extra-Shaders.git",
     "com.lightbuzz.tarball": "https://github.com/LightBuzz/Unity-Package-Export.git",
