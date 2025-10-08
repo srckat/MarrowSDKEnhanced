@@ -33,6 +33,7 @@ MonoBehaviour:
     - com.arparec
     - com.holadivinus.blpreviewtool
     - com.holadivinus.blxrcomp
+    - com.holadivinus.marrowbuildhook
     - com.holadivinus.noodledevents
     - com.lakatrazz.marrowextrashaders
     - com.lightbuzz.tarball
