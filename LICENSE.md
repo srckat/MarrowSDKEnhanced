@@ -1,6 +1,6 @@
 Repository Name: MarrowSDKEnhanced
 
-Copyright © 2025 Kat_Tech
+Copyright © 2025 srckat
 
 All Rights Reserved
 
