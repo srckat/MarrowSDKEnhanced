@@ -1,7 +1,7 @@
 {
   "name": "com.unity.template.arparec-marrowsdkenhancedpubva",
   "displayName": "Marrow SDK Enhanced",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "type": "template",
   "host": "hub",
   "unity": "2021.3",
@@ -15,7 +15,7 @@
     "com.unity.ugui": "1.0.0"
   },
   "_upm": {
-    "changelog": "- Update package registry URLs as part of server restructuring."
+    "changelog": "- Update package registry URLs to GitHub ones due to server changes. [BUMP VERSION]"
   },
   "upmCi": {
     "footprint": "71f52aba0ce2c93733f41b29930d466806539fe5"
