@@ -1,10 +1,5 @@
 {
   "dependencies": {
-    "com.arparec.asecomshaders": "2.0.3",
-    "com.arparec.msdkeh.content.audio": "1.2.0",
-    "com.arparec.msdkeh.content.base": "1.2.0",
-    "com.arparec.msdkeh.content.misc": "1.2.0",
-    "com.arparec.msdkeh.content.shaders": "1.2.0",
     "com.holadivinus.blpreviewtool": "https://github.com/holadivinus/BL-PreviewTool.git",
     "com.holadivinus.blxrcomp": "https://github.com/holadivinus/BLXRComp.git",
     "com.holadivinus.marrowbuildhook": "https://github.com/holadivinus/MarrowBuildHook.git",
@@ -12,7 +7,12 @@
     "com.lakatrazz.marrowextrashaders": "https://github.com/Lakatrazz/Marrow-Extra-Shaders.git",
     "com.lightbuzz.tarball": "https://github.com/LightBuzz/Unity-Package-Export.git",
     "com.ltk.materialconverter": "https://github.com/TeckUnity/MaterialConverter.git",
-    "com.stresslevelzero.marrow.sdk.extended": "1.2.3",
+    "com.arparec.asecomshaders": "https://github.com/ArpaRec/ASECommunityShaders.git",
+    "com.stresslevelzero.marrow.sdk.extended": "https://github.com/ArpaRec/MarrowExtDeduping.git",
+    "com.unity.render-pipelines.core": "https://github.com/srckat/MarrowExtCustomURPCore.git",
+    "com.unity.render-pipelines.universal": "https://github.com/srckat/MarrowExtCustomURP.git",
+    "com.unity.shadergraph": "https://github.com/srckat/MSDKECustomShaderGraph.git",
+    "com.stresslevelzero.static-batching": "https://github.com/StressLevelZero/CustomStaticBatching.git",
     "com.unity.collab-proxy": "1.17.7",
     "com.unity.feature.development": "1.0.1",
     "com.unity.ide.rider": "3.0.16",
@@ -55,18 +55,5 @@
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
   },
-  "scopedRegistries": [
-    {
-      "name": "ArpaRec",
-      "url": "https://upm.kat.arparec.xyz",
-      "scopes": [
-        "com.arparec.asecomshaders",
-        "com.arparec.msdkeh",
-        "com.stresslevelzero",
-        "com.unity.render-pipelines",
-        "com.unity.shadergraph"
-      ]
-    }
-  ],
   "resolutionStrategy": "highestMinor"
 }
