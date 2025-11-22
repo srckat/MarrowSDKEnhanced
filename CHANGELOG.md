@@ -4,6 +4,9 @@ All notable changes to this project template will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [1.0.12] = 2025-11-22
+- Fix package resolver issue with GIT URLs.
+
 ## [1.0.11] = 2025-11-20
 - Update package registry URLs to GitHub ones due to server changes. [BUMP VERSION]
   

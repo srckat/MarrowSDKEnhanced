@@ -1,34 +1,24 @@
 {
   "dependencies": {
     "com.arparec.asecomshaders": {
-      "version": "2.0.3",
+      "version": "https://github.com/ArpaRec/ASECommunityShaders.git",
       "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://upm.kat.arparec.xyz"
-    },
-    "com.arparec.strata": {
-      "version": "2.0.1",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://upm.kat.arparec.xyz"
+      "source": "git",
+      "dependencies": {}
     },
     "com.holadivinus.blpreviewtool": {
-      "version": "2.4.10",
+      "version": "https://github.com/holadivinus/BL-PreviewTool.git",
       "depth": 0,
-      "source": "registry",
+      "source": "git",
       "dependencies": {
-        "com.unity.textmeshpro": "3.0.9"
-      },
-      "url": "https://upm.kat.arparec.xyz"
+        "com.unity.textmeshpro": "3.0.6"
+      }
     },
     "com.holadivinus.blxrcomp": {
       "version": "https://github.com/holadivinus/BLXRComp.git",
       "depth": 0,
       "source": "git",
-      "dependencies": {},
-      "hash": "3b5e9bbe90ffd92c44af9b63009809f28593fb33"
+      "dependencies": {}
     },
     "com.holadivinus.marrowbuildhook": {
       "version": "https://github.com/holadivinus/MarrowBuildHook.git",
@@ -36,31 +26,34 @@
       "source": "git",
       "dependencies": {}
     },
-    "com.lakatrazz.marrowextrashaders": {
-      "version": "1.0.0",
+    "com.holadivinus.noodledevents": {
+      "version": "https://github.com/holadivinus/Noodled-Events.git",
       "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://upm.kat.arparec.xyz"
+      "source": "git",
+      "dependencies": {}
+    },
+    "com.lakatrazz.marrowextrashaders": {
+      "version": "https://github.com/Lakatrazz/Marrow-Extra-Shaders.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {}
     },
     "com.lightbuzz.tarball": {
-      "version": "1.5.0",
+      "version": "https://github.com/LightBuzz/Unity-Package-Export.git",
       "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://upm.kat.arparec.xyz"
+      "source": "git",
+      "dependencies": {}
     },
     "com.ltk.materialconverter": {
-      "version": "0.0.1",
+      "version": "https://github.com/TeckUnity/MaterialConverter.git",
       "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://upm.kat.arparec.xyz"
+      "source": "git",
+      "dependencies": {}
     },
     "com.stresslevelzero.marrow.sdk.extended": {
-      "version": "1.2.3",
+      "version": "https://github.com/ArpaRec/MarrowExtDeduping.git",
       "depth": 0,
-      "source": "registry",
+      "source": "git",
       "dependencies": {
         "com.stresslevelzero.static-batching": "1.0.3",
         "com.unity.addressables": "1.21.12",
@@ -75,19 +68,17 @@
         "com.unity.xr.management": "4.2.1",
         "com.unity.xr.mock-hmd": "1.3.0-preview.1",
         "com.unity.xr.oculus": "4.0.0"
-      },
-      "url": "https://upm.kat.arparec.xyz"
+      }
     },
     "com.stresslevelzero.static-batching": {
-      "version": "1.0.3",
-      "depth": 1,
-      "source": "registry",
+      "version": "https://github.com/StressLevelZero/CustomStaticBatching.git",
+      "depth": 0,
+      "source": "git",
       "dependencies": {
         "com.unity.mathematics": "1.2.1",
         "com.unity.burst": "1.8.4",
         "com.unity.collections": "1.2.4"
-      },
-      "url": "https://upm.kat.arparec.xyz"
+      }
     },
     "com.unity.addressables": {
       "version": "1.21.12",
@@ -213,28 +204,26 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
-      "version": "8148.0.3-1",
-      "depth": 1,
-      "source": "registry",
+      "version": "https://github.com/srckat/MarrowExtCustomURPCore.git",
+      "depth": 0,
+      "source": "git",
       "dependencies": {
         "com.unity.ugui": "1.0.0",
         "com.unity.modules.physics": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
-      },
-      "url": "https://upm.kat.arparec.xyz"
+      }
     },
     "com.unity.render-pipelines.universal": {
-      "version": "8148.0.7-4",
-      "depth": 1,
-      "source": "registry",
+      "version": "https://github.com/srckat/MarrowExtCustomURP.git",
+      "depth": 0,
+      "source": "git",
       "dependencies": {
         "com.unity.mathematics": "1.2.1",
         "com.unity.burst": "1.5.0",
         "com.unity.render-pipelines.core": "8148.0.1",
         "com.unity.shadergraph": "8148.12.1-8",
         "com.unity.nuget.newtonsoft-json": "2.0.2"
-      },
-      "url": "https://upm.kat.arparec.xyz"
+      }
     },
     "com.unity.scriptablebuildpipeline": {
       "version": "1.21.5",
@@ -269,14 +258,13 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.shadergraph": {
-      "version": "8148.12.1-8",
-      "depth": 2,
-      "source": "registry",
+      "version": "https://github.com/srckat/MSDKECustomShaderGraph.git",
+      "depth": 0,
+      "source": "git",
       "dependencies": {
         "com.unity.render-pipelines.core": "8148.0.3-1",
         "com.unity.searcher": "4.9.1"
-      },
-      "url": "https://upm.kat.arparec.xyz"
+      }
     },
     "com.unity.splines": {
       "version": "1.0.1",
@@ -320,8 +308,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
-      "version": "3.0.9",
-      "depth": 1,
+      "version": "3.0.6",
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.ugui": "1.0.0"
