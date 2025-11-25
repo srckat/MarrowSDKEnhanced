@@ -1,3 +1,5 @@
+# THIS REPOSITORY IS NO LONGER BEING MAINTAINED! PLEASE RESPECT THE LICENSE!
+
 # Marrow SDK Enhanced
 
 A custom Unity project template designed for BONELAB modding.
