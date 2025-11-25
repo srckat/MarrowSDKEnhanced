@@ -11,7 +11,7 @@ All Rights Reserved
    No part of this repository may be reproduced, distributed, or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or by any information storage and retrieval system, without the prior written permission of the author(s).
 
 3. Contact Information:
-   For inquiries regarding licensing, permissions, or any other questions, please contact Kat_Tech at realtechside@gmail.com.
+   For inquiries regarding licensing, permissions, or any other questions, please contact srckat at srckat@srckat.me.
 
 4. No Implied Licenses:
    Nothing in this license shall be deemed to grant any rights to any third parties or to imply any relationship between the author(s) and the recipients or users of this repository.
